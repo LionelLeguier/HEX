@@ -1,5 +1,5 @@
 # Projet hex 
-Leguier Lionel 
+Réalisé par Leguier Lionel 
 Bienvenu Mathéo 
 Zaoui Mehdi 
 Ait-Khelifa Elias
